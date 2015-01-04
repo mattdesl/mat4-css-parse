@@ -2,7 +2,7 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
-Takes a `transform` string from an element's computed style, and returns a mat4 representation of the 3D matrix. Useful alongside [mat4-css-stringify](https://nodei.co/npm/mat4-css-parse/).
+Takes a `transform` string from an element's computed style, and returns a mat4 representation of the 3D matrix. Useful alongside [mat4-css-stringify](https://nodei.co/npm/mat4-css-stringify/).
 
 Cases:
 

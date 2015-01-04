@@ -1,6 +1,6 @@
 {
   "name": "mat4-css-parse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "converts a css matrix string into a mat4 array",
   "main": "index.js",
   "license": "MIT",

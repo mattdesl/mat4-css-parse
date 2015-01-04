@@ -23,7 +23,7 @@ var mat4 = parse(computedStyle.tranfsorm)
 
 [![NPM](https://nodei.co/npm/mat4-css-parse.png)](https://nodei.co/npm/mat4-css-parse/)
 
-#### `matrix = toMat4(str[, out])`
+#### `matrix = parse(str[, out])`
 
 Converts the `transform` CSS string into a 16-float array representing a 4x4 matrix. 2D matrices will be stored in the upper left of a 4x4 identity matrix.
 
